@@ -7,7 +7,7 @@ Some of the technologies I use everyday in my work are Java, and many of the mai
 
 Here you'll see all of my personal projects I've been working since I start coding.
 
-Check out my [Linkedin Accont](https://www.linkedin.com/in/fdherreradev/) to be in touch!
+Check out my [Linkedin Account](https://www.linkedin.com/in/fdherreradev/) to be in touch!
 
 <!---
 FdHerrera/FdHerrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
