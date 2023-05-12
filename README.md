@@ -1,13 +1,15 @@
 # 👋 Hi, I’m @FdHerrera
 I'm from Tucumán, Argentina.
 
-I'm a Mid-Level Java Developer, doing some Vue.js now because of the requirements of my project so I'm trying to be a Full-Stack Developer.
+As a Mid-Level Java Developer with almost 2 years of experience, I excel in back-end development using Java and Spring.
 
-Some of the technologies I use everyday in my work are Java, and many of the main Project of Spring, and Vue.js.
+Neovim lover, you can check my neovim configuration in my [dotfiles](https://github.com/FdHerrera/nvim-config) repo, still working on it, still expanding it to be an IDE just like I want it.
 
-Here you'll see all of my personal projects I've been working since I start coding.
+Currently, I am expanding my knowledge in microservices and containerization technologies, such as Docker and Kubernetes, to develop scalable and efficient applications.
+I am passionate about programming and continuously strive to learn and improve my skills in the field of software development. 
+I am always eager to explore new technologies and methodologies to stay up to date with the latest trends in the industry.
 
-Check out my [Linkedin Account](https://www.linkedin.com/in/fdherreradev/) to be in touch!
+Check out my [Linkedin Account](https://www.linkedin.com/in/federicoherreradev/) to be in touch!
 
 <!---
 FdHerrera/FdHerrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
