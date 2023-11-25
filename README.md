@@ -1,15 +1,30 @@
-# 👋 Hi, I’m @FdHerrera
-I'm from Tucumán, Argentina.
+# Hello, World! 👋
 
-As a Mid-Level Java Developer with almost 2 years of experience, I excel in back-end development using Java and Spring.
+I'm Federico Herrera, a skilled Software Developer with over 2 years of experience, specializing in crafting high-quality web applications. Currently, I'm serving as a Mid Level Software Developer on a project for Disney Media, one of the flagship clients at Globant, where I continually enhance my expertise and contribute to thrilling projects.
 
-Neovim lover, you can check my neovim configuration in my [dotfiles](https://github.com/FdHerrera/nvim-config) repo, still working on it, still expanding it to be an IDE just like I want it.
+## 💼 Work
 
-Currently, I am expanding my knowledge in microservices and containerization technologies, such as Docker and Kubernetes, to develop scalable and efficient applications.
-I am passionate about programming and continuously strive to learn and improve my skills in the field of software development. 
-I am always eager to explore new technologies and methodologies to stay up to date with the latest trends in the industry.
+- 🔭 In my current role, I collaborate closely with the development team, providing a comprehensive perspective from both UI and Back End aspects of applications.
+- 🚀 Actively involved in designing and implementing solutions that meet requirements and deliver exceptional user experiences.
+- 👥 Efficiently managing code and collaborating with colleagues using the Gitlab development environment.
+- ☁️ Experienced in working on applications deployed on the AWS platform, leveraging its powerful infrastructure and services.
 
-Check out my [Linkedin Account](https://www.linkedin.com/in/federicoherreradev/) to be in touch!
+## 🚀 Skills
+
+- 💻 Proficient in crafting solid and high-performing web applications.
+- 🔄 Utilizing GraphQL for efficient data querying and manipulation.
+- 📦 Experience with MongoDB for scalable and flexible data storage.
+
+## 👥 Collaboration
+
+- 🤝 Actively participating in code reviews, ensuring code quality, adherence to best practices, and maintaining high standards throughout the development process.
+- 🌱 Eager to learn and stay up to date with the latest technologies and methodologies in the industry.
+
+## 📫 Contact
+
+Feel free to reach out to me [at Linkedin](https://www.linkedin.com/in/federicoherreradev) here or via [email](eailto:federico.herrera_dev@outlook.com).
+
+Let's connect and create amazing things together! 🚀
 
 <!---
 FdHerrera/FdHerrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
