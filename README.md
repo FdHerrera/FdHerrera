@@ -22,7 +22,7 @@ I'm Federico Herrera, a skilled Software Developer with over 2 years of experien
 
 ## 📫 Contact
 
-Feel free to reach out to me [at Linkedin](https://www.linkedin.com/in/federicoherreradev) here or via [email](mailto:federico.herrera_dev@outlook.com).
+Feel free to reach out to me at [Linkedin](https://www.linkedin.com/in/federicoherreradev) or via [email](mailto:federico.herrera_dev@outlook.com).
 
 Let's connect and create amazing things together! 🚀
 
