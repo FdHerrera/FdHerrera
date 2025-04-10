@@ -1,30 +1,40 @@
 # Hello, World! 👋
 
-I'm Federico Herrera, a skilled Software Developer with over 2 years of experience, specializing in crafting high-quality web applications. Currently, I'm serving as a Mid Level Software Developer on a project for Disney Media, one of the flagship clients at Globant, where I continually enhance my expertise and contribute to thrilling projects.
+I'm **Federico Herrera**, a passionate **Senior Java Developer** with over 3 years of experience crafting scalable, high-quality backend systems. I’m currently working at **EY** on a greenfield project for a digital wallet, where I help design and implement a microservices-based architecture from the ground up.
 
 ## 💼 Work
 
-- 🔭 In my current role, I collaborate closely with the development team, providing a comprehensive perspective from both UI and Back End aspects of applications.
-- 🚀 Actively involved in designing and implementing solutions that meet requirements and deliver exceptional user experiences.
-- 👥 Efficiently managing code and collaborating with colleagues using the Gitlab development environment.
-- ☁️ Experienced in working on applications deployed on the AWS platform, leveraging its powerful infrastructure and services.
+- 🔧 Currently building a fully dockerized microservices backend using **Java 21**, **Spring Boot 3.4**, and **PostgreSQL** with **JPA/Hibernate**.
+- ☁️ Defining infrastructure as code with **Terraform** into **GCP**.
+- 🔗 Integrating with external services using **Feign**.
+- 🛠️ Previous experience includes developing internal tools and customer-facing platforms for **Disney Media** and **BBVA Argentina** at **Globant**.
+- 👨‍💻 Participated in technical interviews for candidates up to senior level (+8 years experience).
 
 ## 🚀 Skills
 
-- 💻 Proficient in crafting solid and high-performing web applications.
-- 🔄 Utilizing GraphQL for efficient data querying and manipulation.
-- 📦 Experience with MongoDB for scalable and flexible data storage.
+- **Languages & Frameworks:** Java, Spring Boot, JavaScript, Go (basic)
+- **Cloud & DevOps:** Docker, AWS (Lambda, SQS, ECS, CloudFormation, Secrets Manager), Terraform, GCP
+- **Databases:** MongoDB, PostgreSQL
+- **Architecture:** Microservices, Event-driven systems, REST APIs, Apollo GraphQL
+- **Tools:** Git, GitLab, Jira, Feign, WireMock, Mock-Server
+- **Practices:** Clean Code, TDD, System Design, Agile
 
-## 👥 Collaboration
+## 📚 Currently Learning
 
-- 🤝 Actively participating in code reviews, ensuring code quality, adherence to best practices, and maintaining high standards throughout the development process.
-- 🌱 Eager to learn and stay up to date with the latest technologies and methodologies in the industry.
+- 🔍 Improving knowledge in architecture, distributed systems, and code quality patterns
+- 🧠 Building interpreters in different languages (inspired by *Writing an Interpreter in Go*)
+
+## 🌱 Collaboration
+
+- 🤝 I value clean, readable, and maintainable code.
+- 📣 I enjoy sharing ideas, learning from others, and working on projects that have real-world impact.
 
 ## 📫 Contact
 
-Feel free to reach out to me at [Linkedin](https://www.linkedin.com/in/federicoherreradev) or via [email](mailto:federico.herrera_dev@outlook.com).
+- [LinkedIn](https://www.linkedin.com/in/federicoherreradev)  
+- [Email](mailto:federico.herrera_dev@outlook.com)
 
-Let's connect and create amazing things together! 🚀
+Let's build something great together! 🚀
 
 <!---
 FdHerrera/FdHerrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
